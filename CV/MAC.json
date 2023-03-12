@@ -1,0 +1,278 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Iván",
+      "surnames": "González Mahagamage",
+      "title": "Engineer Dev Lead",
+      "description": "Programador FullStack con 4 años de experiencias con muchas ganas de seguir mejorando",
+      "location": {
+        "country": "España",
+        "region": "Principado de Asturias",
+        "municipality": "Oviedo",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/igm1990"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/ivangm1990"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/iv%C3%A1n-gonz%C3%A1lez-mahagamage/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Hotelbeds Spain S.L.U.",
+          "image": {
+            "alt": "descarga.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/15/4c256a5f-4114-4311-9a5d-39acfb59a29b_descarga.png"
+          },
+          "URL": "https://www.hotelbeds.com/home"
+        },
+        "roles": [
+          {
+            "name": "Engineer Dev Lead",
+            "startDate": "2022-10-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Hotelbeds Spain S.L.U.",
+          "image": {
+            "alt": "descarga.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/15/ba2fe814-a0c3-465f-a3f6-5531c3f6b94b_descarga.png"
+          },
+          "URL": "https://www.hotelbeds.com/home"
+        },
+        "roles": [
+          {
+            "name": "Full Stack developer",
+            "startDate": "2022-06-01",
+            "finishDate": "2022-09-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Plexus Tech. S.L.",
+          "image": {
+            "alt": "logo-plexus-2021.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/15/d718dfba-5c16-4f5c-88b0-3abb45463401_logo-plexus-2021.png"
+          },
+          "URL": "https://www.plexus.es"
+        },
+        "roles": [
+          {
+            "name": "Full Stack developer",
+            "startDate": "2021-06-01",
+            "finishDate": "2022-05-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Seresco S.A.",
+          "image": {
+            "alt": "sseresco_transp.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/15/491ea1a9-0e0a-4111-9b16-335cc6dfd486_sseresco_transp.png"
+          },
+          "URL": "https://seresco.es/"
+        },
+        "roles": [
+          {
+            "name": "Full Stack developer",
+            "startDate": "2021-03-01",
+            "finishDate": "2021-05-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Tree Technology S.A.",
+          "image": {
+            "alt": "TREE_500x400.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/15/67ceef12-922a-4fe3-a23f-f7f8c2e65c6e_tree_500x400.jpg"
+          },
+          "URL": "https://www.treetk.com/en/index.html"
+        },
+        "roles": [
+          {
+            "name": "Full Stack developer",
+            "startDate": "2020-06-01",
+            "finishDate": "2021-02-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "duonet | Ingenería y comunicación S.L.",
+          "image": {
+            "alt": "descarga (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/15/8e16f335-ed7e-47eb-98ca-28e3950b2d49_descarga-(1).png"
+          },
+          "URL": "https://ahorasomos.izertis.com/duonet/"
+        },
+        "roles": [
+          {
+            "name": "Full Stack developer",
+            "startDate": "2020-02-01",
+            "finishDate": "2020-05-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Alisys S.L.",
+          "image": {
+            "alt": "descarga (2).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/15/9d72dec2-f741-4e88-9ea7-bd6d9afa38a7_descarga-(2).png"
+          },
+          "URL": "https://alisys.net/es/"
+        },
+        "roles": [
+          {
+            "name": "Full Stack developer",
+            "startDate": "2020-01-01",
+            "finishDate": "2020-02-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Koinsys Solutions S.L.",
+          "image": {
+            "alt": "logotipo-koinsys-pequeño.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/15/46f827b3-5757-4c5b-8745-4b28db355c2c_logotipo-koinsys-peq.png"
+          },
+          "URL": "https://koinsys.com/"
+        },
+        "roles": [
+          {
+            "name": "Full Stack developer",
+            "startDate": "2018-02-01",
+            "finishDate": "2019-12-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Golang",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/iv%C3%A1n-gonz%C3%A1lez-mahagamage/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Full-stack Developer",
+        "Software Architect",
+        "Tech Lead"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
