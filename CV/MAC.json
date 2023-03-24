@@ -9,7 +9,7 @@
       "name": "Iván",
       "surnames": "González Mahagamage",
       "title": "Engineer Dev Lead",
-      "description": "Programador FullStack con 4 años de experiencias con muchas ganas de seguir mejorando",
+      "description": "Programador FullStack con 5 años de experiencias con muchas ganas de seguir mejorando",
       "location": {
         "country": "España",
         "region": "Principado de Asturias",
@@ -178,8 +178,12 @@
   "knowledge": {
     "languages": [
       {
+        "name": "English",
+        "level": "Professional working proficiency"
+      },
+      {
         "name": "Spanish",
-        "level": "Limited working proficiency"
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
