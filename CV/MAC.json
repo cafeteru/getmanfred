@@ -42,7 +42,7 @@
         "roles": [
           {
             "name": "Full Stack developer",
-            "startDate": "2022-06-01",
+            "startDate": "2021-06-01",
             "finishDate": "2022-09-01"
           }
         ]
@@ -418,6 +418,10 @@
   },
   "manfredSpecificData": {
     "mainStackTechs": [
+      {
+        "name": "AWS",
+        "type": "technology"
+      },
       {
         "name": "Angular2+",
         "type": "technology"
