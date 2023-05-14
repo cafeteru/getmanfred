@@ -11,30 +11,12 @@
       "title": "Engineer Dev Lead",
       "description": "Soy Iván González Mahagamage, un ingeniero informático y desarrollador de software con una sólida formación académica y amplia experiencia en el mundo laboral. He estudiado en Ingeniería Informática por la Universidad de Oviedo y he trabajado en varias empresas de renombre, ocupando roles que van desde desarrollador de software hasta Team Lead.\n\nTengo experiencia en una amplia variedad de tecnologías, y me destaco por mi facilidad para adaptarme y aprender nuevas tecnologías según las necesidades del proyecto. A lo largo de mi carrera, he trabajado tanto en proyectos universitarios como con empresas privadas, aplicando mis habilidades en diversas áreas de la informática.\n\nMás allá de mis habilidades técnicas, me destaco por mi liderazgo y habilidades comunicativas, lo que me ha permitido gestionar equipos multidisciplinarios y liderar proyectos exitosos. Mis intereses profesionales incluyen el desarrollo de software y la aplicación de tecnologías emergentes para resolver problemas complejos. Siempre estoy dispuesto a enfrentar nuevos retos y a aprender para mantenerme a la vanguardia en mi campo.",
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJZxysYJqMNg0RJGJezA5ENDE)",
         "country": "España",
         "region": "Principado de Asturias",
-        "municipality": "Oviedo",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Oviedo"
       }
-    },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/cafeteru"
-      },
-      {
-        "type": "other",
-        "URL": "https://stackoverflow.com/users/7593088/cafeteru"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/cafeteru_"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/iv%C3%A1n-gonz%C3%A1lez-mahagamage/"
-      }
-    ]
+    }
   },
   "experience": {
     "jobs": [
@@ -45,12 +27,7 @@
         "roles": [
           {
             "name": "Engineer Dev Lead",
-            "startDate": "2022-10-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
+            "startDate": "2022-10-01"
           }
         ]
       },
@@ -62,12 +39,7 @@
           {
             "name": "Full Stack developer",
             "startDate": "2022-06-01",
-            "finishDate": "2022-09-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
+            "finishDate": "2022-09-01"
           }
         ]
       },
@@ -79,12 +51,7 @@
           {
             "name": "Full Stack developer",
             "startDate": "2021-06-01",
-            "finishDate": "2022-05-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
+            "finishDate": "2022-05-01"
           }
         ]
       },
@@ -96,12 +63,7 @@
           {
             "name": "Full Stack developer",
             "startDate": "2021-03-01",
-            "finishDate": "2021-05-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
+            "finishDate": "2021-05-01"
           }
         ]
       },
@@ -113,12 +75,7 @@
           {
             "name": "Full Stack developer",
             "startDate": "2020-06-01",
-            "finishDate": "2021-02-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
+            "finishDate": "2021-02-01"
           }
         ]
       },
@@ -130,12 +87,7 @@
           {
             "name": "Full Stack developer",
             "startDate": "2020-02-01",
-            "finishDate": "2020-05-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
+            "finishDate": "2020-05-01"
           }
         ]
       },
@@ -147,12 +99,7 @@
           {
             "name": "Full Stack developer",
             "startDate": "2020-01-01",
-            "finishDate": "2020-02-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
+            "finishDate": "2020-02-01"
           }
         ]
       },
@@ -164,12 +111,7 @@
           {
             "name": "Full Stack developer",
             "startDate": "2018-02-01",
-            "finishDate": "2019-12-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
+            "finishDate": "2019-12-01"
           }
         ]
       }
@@ -178,18 +120,30 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "Español",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Inglés",
+        "level": "Professional working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Go",
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular Universal",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
           "type": "technology"
         }
       },
@@ -201,13 +155,49 @@
       },
       {
         "skill": {
-          "name": "PostgreSQL",
+          "name": "Cucumber",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Cypress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Go",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Grafana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "H2",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
           "type": "technology"
         }
       },
@@ -225,43 +215,13 @@
       },
       {
         "skill": {
-          "name": "SonarQube",
+          "name": "Jasmine",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "H2",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kafka",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -279,85 +239,7 @@
       },
       {
         "skill": {
-          "name": "Jasmine",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Cucumber",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Mockito",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kibana",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Tailwind",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Postman",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Angular Universal",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Grafana",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kubernetes",
+          "name": "Kafka",
           "type": "technology"
         }
       },
@@ -369,19 +251,7 @@
       },
       {
         "skill": {
-          "name": "Angular2+",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostGIS",
+          "name": "Kibana",
           "type": "technology"
         }
       },
@@ -393,7 +263,55 @@
       },
       {
         "skill": {
-          "name": "Swagger",
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mockito",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostGIS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
           "type": "technology"
         }
       },
@@ -405,8 +323,52 @@
       },
       {
         "skill": {
-          "name": "Redux",
+          "name": "SonarQube",
           "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Swagger",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Comunicación intercultural",
+          "type": "practice"
         }
       }
     ]
@@ -415,12 +377,29 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/iv%C3%A1n-gonz%C3%A1lez-mahagamage/"
+          "URL": "https://www.linkedin.com/in/iv%C3%A1n-gonz%C3%A1lez-mahagamage/",
+          "type": "linkedin"
         },
         {
-          "type": "other",
-          "URL": "https://stackoverflow.com/users/7593088/cafeteru"
+          "URL": "https://stackoverflow.com/users/7593088/cafeteru",
+          "type": "stackoverflow"
+        },
+        {
+          "URL": "https://github.com/cafeteru",
+          "type": "other"
+        },
+        {
+          "URL": "https://twitter.com/cafeteru_",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "ivangonzalezmahagamage@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "600521892",
+          "countryCode": "+34"
         }
       ]
     },
@@ -431,6 +410,9 @@
         "Tech Lead"
       ]
     },
-    "status": "searchingActively"
+    "status": "notAvailable"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I don't have a dream job\n\n"
   }
 }
