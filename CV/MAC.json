@@ -423,6 +423,10 @@
         "type": "technology"
       },
       {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
         "name": "JAVA",
         "type": "technology"
       }
