@@ -20,7 +20,25 @@
         "region": "Principado de Asturias",
         "municipality": "Oviedo"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/iv%C3%A1n-gonz%C3%A1lez-mahagamage/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/cafeteru"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/cafeteru_"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/7593088/cafeteru"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -88,12 +106,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Español",
-        "level": "Native or bilingual proficiency"
+        "name": "EN",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Inglés",
-        "level": "Professional working proficiency"
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -354,11 +372,11 @@
         },
         {
           "URL": "https://github.com/cafeteru",
-          "type": "other"
+          "type": "github"
         },
         {
           "URL": "https://twitter.com/cafeteru_",
-          "type": "other"
+          "type": "twitter"
         }
       ],
       "contactMails": [
