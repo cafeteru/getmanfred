@@ -387,6 +387,7 @@
     },
     "preferences": {
       "preferredRoles": [
+        "Backend Developer",
         "Full-stack Developer",
         "Tech Lead"
       ]
