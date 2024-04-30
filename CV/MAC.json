@@ -185,12 +185,6 @@
       },
       {
         "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JPA",
           "type": "technology"
         }
@@ -204,6 +198,12 @@
       {
         "skill": {
           "name": "Jasmine",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -410,7 +410,7 @@
         "type": "technology"
       },
       {
-        "name": "JAVA",
+        "name": "Java",
         "type": "technology"
       },
       {
